@@ -18,9 +18,8 @@ I'm currently focused on improving my skills in MERN stack. I'm excited to explo
 
 ## 🌍 Connect with Me
 
-- [LinkedIn](link-to-linkedin-profile)
-- [Personal Website](link-to-personal-website)
-- [Twitter](link-to-twitter-profile)
+- [LinkedIn](https://www.linkedin.com/in/gokul-bansal-553429225/)
+- [Instagram](https://www.instagram.com/gokul.bansal.75/)
 
 Feel free to reach out to me through any of these channels. I'm always interested in connecting with fellow developers and collaborating on exciting projects.
 
