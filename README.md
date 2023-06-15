@@ -4,9 +4,7 @@ I'm Gokul Bansal, a Web Developer passionate about creating and personalizing aw
 
 ## 🔭 Projects
 
-- [Project 1](link-to-project) - Brief description of the project.
-- [Project 2](link-to-project) - Brief description of the project.
-- [Project 3](link-to-project) - Brief description of the project.
+- [Blog Website](https://github.com/bansalgokul/Blog-Website) - Currently updating to make it ready for deployment.
 
 ## 🌱 Currently Learning
 
