@@ -4,7 +4,7 @@ I'm Gokul Bansal, a Web Developer passionate about creating and personalizing aw
 
 ## 🔭 Projects
 
-- [Blog Website](https://blog.gokulbansal.in/) - Currently updating to make it ready for deployment.
+- [Blog Website](https://www.blog.gokulbansal.in/) - Currently updating to make it ready for deployment.
 
 ## 🌱 Currently Learning
 
